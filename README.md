@@ -1,5 +1,7 @@
 # Azderica-Portfolio
 
+Next.js를 이용한 포트폴리오 프로젝트입니다.
+
 ## Build Setup
 
 ```bash
